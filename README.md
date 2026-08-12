@@ -124,7 +124,7 @@ customer-shopping-behavior-analysis/
   - Customer Loyalty Segmentation
   - Discount Penetration & Shipping Method Trends
 
-![Customer Shopping Behavior Dashboard](images/dashboard.jpg)
+![Customer Shopping Behavior Dashboard](images/dashboard.jpeg)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -156,8 +156,8 @@ pip install -r requirements.txt
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**[Your Name]**
+**Sufiyan Manihar**
 Data Analyst
-📧 Email: your.email@example.com
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-🔗 [Portfolio](https://your-portfolio-link.com/)
+📧 Email: sufiyanmanihar533@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/sufiyan-manihar-b77290374)
+

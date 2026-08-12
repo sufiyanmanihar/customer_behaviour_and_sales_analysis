@@ -156,8 +156,8 @@ pip install -r requirements.txt
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Sufiyan Manihar**
-Data Analyst
-📧 Email: sufiyanmanihar533@gmail.com
+**Sufiyan Manihar** |
+Data Analyst |
+📧 Email: sufiyanmanihar533@gmail.com |
 🔗 [LinkedIn](www.linkedin.com/in/sufiyan-manihar-b77290374)
 
